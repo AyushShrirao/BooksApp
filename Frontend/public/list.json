@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Entainment",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 3,
+        "name":"Sport Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Sport",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 4,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 5,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 6,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Song",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 7,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 8,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 9,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 10,
+        "name":"Sport Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":90,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 11,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbook&psig=AOvVaw3dWlwquqZ1CnbDEHAet0Fi&ust=1736171831725000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDeypve3ooDFQAAAAAdAAAAABAE"
+    }
+]
